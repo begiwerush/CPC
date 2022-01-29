@@ -489,7 +489,7 @@ button {
     width: 100%;
     position: relative;
     height: 950px;
-    background-image: url("../img/bg-header-cropped.webp");
+    background-image: url("../img/bg-header-cropped.png");
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
@@ -656,7 +656,7 @@ border-image-source: linear-gradient(45deg, #00abe7, #ff21d0);
 /* ROADMAP SECTION START */
 .roadmap-section {
     height: auto;
-    background: url("../img//roadmap-bg-cropped.webp");
+    background-image: url("../img/roadmap-bg-cropped.png");
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
