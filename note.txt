@@ -1,0 +1,2 @@
+1) Whitepaper button => on hover effect
+2) Logo update
